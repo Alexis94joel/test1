@@ -7,4 +7,4 @@ public class DiceRoll {
         int die2 = rand.nextInt(6) + 1;
         return new int[]{die1, die2};
     }
-}
+} 
